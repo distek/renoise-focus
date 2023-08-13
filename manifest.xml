@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Focus</Name>
+  <Id>com.myscripts.Focus</Id>
+  <Version>0.1</Version>
+  <ApiVersion>6.1</ApiVersion>
+  <Author>Me</Author>
+  <AutoUpgraded>false</AutoUpgraded>
+  <Category>GUI</Category>
+  <Description>Focus panes</Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+  <Platform/>
+  <Icon/>
+</RenoiseScriptingTool>
